@@ -7,7 +7,7 @@ This is a simple password strength indicator web application built using HTML, C
 - **Real-time Password Feedback**: Displays the strength of the password as users type.
 - **Strength Levels**: Provides feedback on weak, medium, and strong passwords based on various criteria.
 - **Show/Hide Password**: Allows users to toggle the visibility of the password with an eye icon.
-- 
+
 ## Technologies Used
 
 - **HTML**: For the structure and layout of the password input field.
